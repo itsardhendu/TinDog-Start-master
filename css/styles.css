@@ -1,0 +1,92 @@
+body{
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+h1{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+    padding-top: 20%;
+}
+
+    /* Brand Title */
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link{
+    padding: 5px 18px;
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: lighter;
+}
+.navbar{
+    padding: 0 ;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+    padding: 5%;
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: #ff4c68;
+}
+p{
+    font-family: "Ubuntu";
+    color: #8f8f8f;
+    font-weight: bold;
+}
+.bi-check-circle-fill{
+    font-size: 90px;
+    color: #ff4c68;
+}
+.bi-check-circle-fill:hover{
+    color: #f38697;
+}
+.bi-bullseye{
+    font-size: 90px;
+    color: #ff4c68;
+}
+.bi-bullseye:hover{
+    color: #f38697;
+}
+.bi-heart{
+    font-size: 90px;
+    color: #ff4c68;
+}
+.bi-heart:hover{
+    color: #f38697;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #f0793d;
+    color: whitesmoke;
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: bold;
+    line-height: 1.5;
+}
+.testimonials-img{
+    width: 15%;
+    border-radius: 50%;
+    margin-top: 30px;
+}
